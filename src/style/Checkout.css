@@ -1,0 +1,33 @@
+.checkout__ad {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.checkout {
+  display: flex;
+  padding: 20px;
+  background-color: rgb(212, 196, 196);
+  height: max-content;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-column-gap: 500px;
+  grid-row-gap: 10px;
+  //background-color: #2196F3;
+  padding: 10px;
+}
+.title {
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
+.image1 {
+  width: 180px;
+  height: 180px;
+}
+.buton{
+  background-color: lightgray;
+}
+.right{
+  margin-right: 300px;
+ 
+}

@@ -1,0 +1,46 @@
+.ui grid container {
+  background-color: #fff;
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 400px;
+}
+.details h3 {
+  margin: 20px 0;
+}
+.details__info {
+  padding-left: 20px;
+}
+.details__info > button {
+  background: gray;
+  width: 200px;
+  height: 30px;
+  font-weight: 800;
+  font-size: 15px;
+
+  border: 1px solid;
+  margin-top: 10px;
+ 
+  color: #111;
+}
+.details__image {
+  object-fit: contain;
+  width: 400px;
+  height: 500px;
+}
+
+.details__title {
+  font-size: 17px;
+  font-weight: 400;
+  margin: 20px 0;
+}
+.details__qty {
+  margin-top: 20px;
+  width: 65px;
+  height: 29px;
+  text-align: center;
+}
+. details{
+  margin-top: 20px;
+  
+}
